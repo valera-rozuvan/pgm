@@ -1,4 +1,4 @@
-# general
+# pgm
 
 You can run all services using [PM2](https://pm2.keymetrics.io/).
 
